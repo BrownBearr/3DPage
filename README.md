@@ -1,2 +1,3 @@
-# DinoPhotos
-Repository of all photos taken on dino camera
+# 3DPage
+Repository of website for making cool 3d Shit
+
